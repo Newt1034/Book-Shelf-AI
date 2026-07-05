@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768546051276",
+    "project_id": "bookshelf-ai-70663",
+    "storage_bucket": "bookshelf-ai-70663.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768546051276:android:a004f45f22fb0ef8b49e69",
+        "android_client_info": {
+          "package_name": "com.aistudio.bookshelfai.qwrpkm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBauyMaZn4uS1TovacVYSynWeKhwxu1tVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

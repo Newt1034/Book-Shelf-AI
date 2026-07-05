@@ -1,0 +1,6 @@
+{
+  "name": "BookShelf AI",
+  "description": "An intelligent reading companion that scans bookshelves, tracks reading insights, and curates tailored recommendations using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
